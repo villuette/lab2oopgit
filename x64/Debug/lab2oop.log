@@ -1,7 +1,2 @@
 ﻿  lab2oop.cpp
-D:\vs2022projects\lab2oop\lab2oop\lab2oop.cpp(12,10): warning C4566: character represented by universal-character-name '\u041F' cannot be represented in the current code page (1252)
-D:\vs2022projects\lab2oop\lab2oop\lab2oop.cpp(12,10): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
-D:\vs2022projects\lab2oop\lab2oop\lab2oop.cpp(12,10): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
-D:\vs2022projects\lab2oop\lab2oop\lab2oop.cpp(12,10): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
-D:\vs2022projects\lab2oop\lab2oop\lab2oop.cpp(12,10): warning C4566: character represented by universal-character-name '\u043D' cannot be represented in the current code page (1252)
   lab2oop.vcxproj -> D:\vs2022projects\lab2oop\x64\Debug\lab2oop.exe
